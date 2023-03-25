@@ -1,3 +1,21 @@
+# Overview
+
+The OWASP Top-10 is a list of the top 10 most critical web application security risks. In this workshop, we will cover the following:
+# Table of Contents
+1. [DDOS attack](DDOS.md)
+2. [Execution of Payload attack](payload.md)
+3. [Brute Forcing](brute-forcing.md)
+    1. [Hydra](brute-forcing/hydra.md)
+    2. [Burpsuite](brute-forcing/Burpsuite.md)
+    3. [Crunch](brute-forcing/Crunch.md)
+4. [Covering some OWASP attacks](owasp-attacks.md)
+    1. [Injection Attack](owasp-attacks/injection.md)
+    2. [Sensitive Data Exposure](owasp-attacks/sensitive-data-exposure.md)
+    3. [Intro to OWASP-ZAP tool](owasp-attacks/owasp-zap.md)
+    4. [Flooding activities](owasp-attacks/flooding.md)
+    5. [XSS – Cross site scripting](owasp-attacks/xss.md)
+
+
 # Topic 1
 
 Lorem markdownum, erat intenta; **ad** ad, iura, fabula murum domosque **per
