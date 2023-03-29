@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: OWASP Top-10 Workshop
+nav:
+  - Home: index.md
+  - DDOS Attack: DDOS.md
+  - Execution of Payload Attack: payload.md
+  - Brute Forcing: brute-forcing.md
+  - OWASP ATTACKS:
+    - Injection Attacks: owasp-attacks/injection.md
+    - Sensitive Data Exposure: owasp-attacks/sensitive-data-exposure.md
